@@ -7,3 +7,5 @@
     - there
     - all
 - Gastation
+  - alone
+  - up
